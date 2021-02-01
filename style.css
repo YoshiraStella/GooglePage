@@ -1,0 +1,24 @@
+
+.up_nav{
+    font-style: relish;
+    background-color: white;
+    display:grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    min-height: auto;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.body{
+    background-color: purple;
+    font-size: x-large;
+}
+.imagengoogle{
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin:auto:
+}
+img{
+    display: block;
+    margin:auto;
+}
