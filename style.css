@@ -17,8 +17,35 @@
     margin-right: auto;
     display: block;
     margin:auto:
+    height:400px;
 }
 img{
     display: block;
     margin:auto;
+}
+#footer {
+  
+
+}
+.down_nav{
+    position: absolute;
+    font-style: relish;
+    background-color: rgba(255, 255, 255, 0.233);
+    display:grid;
+    grid-template-columns: 4fr 4fr 1fr;
+    bottom:0px;
+    right:0 px;
+    padding-left: 80%;
+    
+}
+.down_nav_left{
+    position: absolute;
+    font-style: relish;
+    background-color: rgba(255, 255, 255, 0.226);
+    display:grid;
+    grid-template-columns: 6fr 5fr 3fr ;
+    bottom:0px;
+    right:0 px;
+    padding-right: 50%;
+   
 }
